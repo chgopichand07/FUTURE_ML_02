@@ -362,7 +362,4 @@ This project was successfully completed as part of the **Future Interns Machine 
 ## 👨‍💻 Author
 
 **CHINTALA GOPI CHAND**  
-B.Tech – Computer Science & Engineering (AI & ML)  
-Web Development Enthusiast | Python Enthusiast | Machine Learning Learner | Quantum Computing Minor Student
 
-⭐ *Thank you for exploring this project! If you found it helpful, consider giving it a ⭐ on GitHub.*
